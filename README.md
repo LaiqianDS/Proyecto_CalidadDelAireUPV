@@ -1,4 +1,4 @@
-# Proyecto_CalidadDelAire_UPV
+# Proyecto Calidad Del Aire UPV
 
 # Participantes:
 - Laiqian Ji -> LaiqianDS
