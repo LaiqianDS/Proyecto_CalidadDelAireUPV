@@ -1,8 +1,10 @@
 # Proyecto_CalidadDelAire_UPV
 
-Participantes:
+# Participantes:
 - Laiqian Ji -> LaiqianDS
 - Alejandro Hervás -> Hervaas8
-- Sheila Díaz Giménez -> Sheeiladg
-- Carles Navarro Esteve -> 
+- Sheila Díaz Giménez -> sheeiladg
+- Carles Navarro Esteve -> carlesnaes
 - Álvaro Prado Expósito ->
+
+# Contenidos del proyecto:
