@@ -24,6 +24,9 @@ La evaluación de la calidad del aire se realiza para los contaminantes, con una
 ### Objetivos
 El objetivo de este proyecto es realizar un análisis detallado de la calidad del aire en España a través del uso de datos abiertos y herramientas de análisis de datos. El proyecto se centrará en recopilar y analizar datos de la calidad del aire de diferentes ciudades españolas para identificar patrones y tendencias en la contaminación del aire. Asimismo, trataremos de realizar inferencia, un mapa interactivo con los resultados, una página web donde mostraremos todo el proceso y un vídeo resumen.
 
+### Fuentes de datos
+https://www.miteco.gob.es/es/calidad-y-evaluacion-ambiental/temas/atmosfera-y-calidad-del-aire/calidad-del-aire/evaluacion-datos/datos/Historico_calidad_aire.aspx
+
 ## Project Brief
 
 ### Abstract
@@ -40,3 +43,6 @@ The assessment of air quality focuses on the pollutants which are known to be mo
 
 ### Objectives
 The objective of this project is to perform a detailed analysis of air quality in Spain through the use of open data and data analysis tools. The project will focus on collecting and analyzing air quality data from different Spanish cities to identify patterns and trends in air pollution. We will also try to make inference, an interactive map with the results, a web page where we will show the whole process and a summary video.
+
+### Data Sources
+https://www.miteco.gob.es/es/calidad-y-evaluacion-ambiental/temas/atmosfera-y-calidad-del-aire/calidad-del-aire/evaluacion-datos/datos/Historico_calidad_aire.aspx
